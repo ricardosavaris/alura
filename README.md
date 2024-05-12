@@ -1,1 +1,1 @@
-# alura, O projeto é para criar um fluxograma das principais doenças que ocorrem durante uma enchente, como o RS está tendo em maio de 2024. Este documento será feito para a ajudar o fluxo na Emergência do Hospital de Clínicas de Porto Alegre
+# Alura, O projeto é para criar um fluxograma das principais doenças que ocorrem durante uma enchente, como o RS está tendo em maio de 2024. Este documento será feito para a ajudar o fluxo na Emergência do Hospital de Clínicas de Porto Alegre
